@@ -1,0 +1,11 @@
+body{
+  background-color:#090909;
+  min-height:100vh;
+  margin:0;
+}
+img{
+  height:100%;
+  width:100%;
+  padding-top: 17%;
+}
+
